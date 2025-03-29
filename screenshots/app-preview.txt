@@ -1,0 +1,9 @@
+This is a placeholder for the app preview screenshot.
+
+In a real production environment, you would:
+1. Run the application locally
+2. Take a screenshot of the main interface
+3. Save it as app-preview.png in this directory
+4. Replace the placeholder link in the README.md file with the actual screenshot
+
+The app screenshot would show the main feed with Kaya and Mini's photos, demonstrating the Instagram-like interface with the ability to like and comment on photos.
