@@ -1,0 +1,7 @@
+This is a placeholder file. In a real project, you would copy the images from your local directory:
+
+C:\Users\MAMATHA\Downloads\Catimages\black-cat-2257262.jpg
+C:\Users\MAMATHA\Downloads\Catimages\R.jpeg
+C:\Users\MAMATHA\Downloads\Catimages\R (1).jpeg
+
+To the public/images folder.
